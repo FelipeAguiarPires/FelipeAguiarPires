@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/79782433/195537454-75cb0d98-630c-442f-87aa-196e69b59bb2.svg" />
-</p>
+## 👋 Olá! sou Felipe
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e aprendizado contínuo.
+
+
+## 🤖 Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvimento web, back-end e banco de dados.
 
 ---
 
