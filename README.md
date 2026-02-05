@@ -1,6 +1,6 @@
 <div align="center">
   <h2 style="display: inline; margin: 0;">
-    <img src="download.gif" alt="GIF" width="40" style="vertical-align: middle; margin-right: 10px;">
+    <img src="happy-happy-happy-cat.gif" alt="GIF" width="40" style="vertical-align: middle; margin-right: 10px;">
     Olá! sou Felipe
   </h2>
 </div>
