@@ -58,6 +58,7 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 </p>
 
 
+<!-- Redes sociais -->
 <div align="center">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-aguiar-pires)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fe_lippizin?igsh=MWN0d2w0NGc3bHdvcA==)
