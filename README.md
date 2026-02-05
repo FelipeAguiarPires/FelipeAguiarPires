@@ -7,7 +7,7 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 
 </div>
 
-
+---
 
 ##  🖥️Linguagens & Tecnologias
 
