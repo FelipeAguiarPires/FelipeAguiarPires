@@ -10,7 +10,8 @@
 
 ---
 
-## 🧠 Linguagens & Tecnologias
+## <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/264e4e4c-e3df-4105-a4ff-d2ce60438eb5" />
+ Linguagens & Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
