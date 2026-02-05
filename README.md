@@ -64,6 +64,7 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 
 <br><br>
 <div align="center">
+  
 ## 🦈Meus Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-aguiar-pires)
