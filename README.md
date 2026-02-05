@@ -10,6 +10,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 estou sempre em busca de novos desafios e aprendizados, explorando projetos que me permitem crescer como desenvolvedor e contribuir com soluções práticas e criativas.
 Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvimento web, back-end e banco de dados.
 
+<div align="center">
+
+## 🤖meu git:
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e programação,
+estou sempre em busca de novos desafios e aprendizados, explorando projetos que me permitem crescer como desenvolvedor e contribuir com soluções práticas e criativas.
+Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvimento web, back-end e banco de dados.
+
+</div>
 
 
 <p align="center">
