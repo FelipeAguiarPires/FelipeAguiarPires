@@ -37,7 +37,7 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
----
+<br><br>
 <h2 align="center">
   <img src="abc.jpg" width="40" align="center" />
   Status do GitHub
