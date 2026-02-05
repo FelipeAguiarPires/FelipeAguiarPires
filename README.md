@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://st4.depositphotos.com/1869681/22887/v/450/depositphotos_228878252-stock-illustration-two-wildlife-reindeers-on-purple.jpg" />
+  width="100%"
 </p>
 
 
