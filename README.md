@@ -1,11 +1,9 @@
 <p align="center">
   <img 
-    src="https://i.pinimg.com/736x/4e/d9/3a/4ed93a925416e114dd4f9657e9121c1b.jpg"
+    src="https://wallpapers.com/images/hd/1200x480-howling-wolf-3xvjis1804fz4v5j.jpg"
     width="100%"
   />
 </p>
-
-
 
 
 
