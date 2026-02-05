@@ -1,9 +1,3 @@
-<p align="center">
-  <img 
-    src="https://www.canva.com/design/DAHAaFv6Ej0/Hy3upp3nuzYLGsBjnetGMA/edit?utm_content=DAHAaFv6Ej0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-    width="100%"
-  />
-</p>
 
 
 
