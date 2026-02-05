@@ -40,8 +40,10 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 ---
 <div align="center">
   <p>
-    <img src="abc.jpg" width="40" align="center" />
-    <b>Status do GitHub</b>
+    <img src="abc.jpg" width="40" />
+    <span style="font-size: 28px; font-weight: 700; vertical-align: middle;">
+      Status do GitHub
+    </span>
   </p>
 </div>
 
