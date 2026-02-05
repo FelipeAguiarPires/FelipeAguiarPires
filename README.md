@@ -48,6 +48,7 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeAguiarPires&theme=github_dark" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAguiarPires&show_icons=true&theme=radical)
 
 
 
