@@ -1,5 +1,7 @@
 ## 👋 Olá! sou Felipe
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e aprendizado contínuo.
+
+
 ##🤖
 Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvimento web, back-end e banco de dados.
 
