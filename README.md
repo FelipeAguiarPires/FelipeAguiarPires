@@ -47,15 +47,8 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 </div>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeAguiarPires&show_icons=true&theme=dark&count_private=true&v=1" width="45%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAguiarPires&layout=compact&theme=dark&v=1" width="45%" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeAguiarPires&theme=github_dark" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FelipeAguiarPires&theme=tokyonight&hide_border=true&v=1" width="90%" />
-</p>
 
 
 <p align="center">
