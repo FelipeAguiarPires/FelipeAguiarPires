@@ -28,8 +28,8 @@
 
 ## 🔥 Atividade no GitHub
 
+![Metrics](https://metrics.lecoq.io/FelipeAguiarPires?template=classic&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=FelipeAguiarPires&theme=dark)
 
 
 <p align="center">
