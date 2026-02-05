@@ -15,7 +15,7 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 <br><br>
 </div>
 
-abc.jpg
+
 
 <div align="center">
   <h2 style="display: inline; margin: 0;">
