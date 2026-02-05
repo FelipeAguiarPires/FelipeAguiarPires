@@ -1,5 +1,8 @@
+<div align="center">
 ## 👋 Olá! sou Felipe
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e aprendizado contínuo.
+
+</div>
 
 <div align="center">
 
