@@ -1,11 +1,16 @@
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://user-images.githubusercontent.com/79782433/195537454-75cb0d98-630c-442f-87aa-196e69b59bb2.svg" />
 </p>
 
 ---
 
-### 🧠 Linguagens & Tecnologias
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FelipeAguiarPires&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Linguagens & Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -22,19 +27,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeAguiarPires&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAguiarPires&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🔥 Atividade no GitHub
+## 🔥 Atividade no GitHub
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeAguiarPires&theme=tokyo-night&hide_border=true" />
