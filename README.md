@@ -38,11 +38,13 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 </p>
 
 ---
+<div align="center">
+  <p>
+    <img src="abc.jpg" width="40" align="center" />
+    <b>Status do GitHub</b>
+  </p>
+</div>
 
-<h2 align="center">
-  <img src="abc.jpg" width="40" align="center" />
-  Status do GitHub
-</h2>
 
 <table align="center">
   <tr>
