@@ -15,7 +15,7 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 <br><br>
 </div>
 
-
+abc.jpg
 
 <div align="center">
   <h2 style="display: inline; margin: 0;">
@@ -39,8 +39,13 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 
 ---
 
+<div align="center">
+  <h2 style="display: inline; margin: 0;">
+    <img src="abc.jpg" alt="GIF" width="40" style="vertical-align: middle; margin-right: 10px;">
+   Status do GitHub
+  </h2>
+</div>
 
-## 🔥 Status do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeAguiarPires&show_icons=true&theme=dark&count_private=true" width="45%" />
