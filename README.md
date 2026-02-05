@@ -38,15 +38,10 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 </p>
 
 ---
-<div align="center">
-  <p>
-    <img src="abc.jpg" width="40" />
-    <span style="font-size: 28px; font-weight: 700; vertical-align: middle;">
-      Status do GitHub
-    </span>
-  </p>
-</div>
-
+<h2 align="center">
+  <img src="abc.jpg" width="40" align="center" />
+  Status do GitHub
+</h2>
 
 <table align="center">
   <tr>
@@ -62,6 +57,7 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeAguiarPires&theme=tokyo-night&hide_border=true" />
 </p>
+
 
 <br><br>
 <div align="center">
