@@ -11,7 +11,11 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 
 
 
-##  🖥️Linguagens & Tecnologias
+<div align="center">
+  <h2 style="display: inline-block; vertical-align: middle;">🖥️ Linguagens & Tecnologias</h2>
+  <img src="1930561_979af.gif" alt="GIF" width="40" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+</div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
