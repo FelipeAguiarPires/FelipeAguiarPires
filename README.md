@@ -1,9 +1,15 @@
 <div align="center">
-  
-## 🤖 Olá! sou Felipe
-Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e programação,
-estou sempre em busca de novos desafios e aprendizados, explorando projetos que me permitem crescer como desenvolvedor e contribuir com soluções práticas e criativas.
+  <h2 style="display: inline; margin: 0;">
+    <img src="computador-imagem-animada-0028.gif" alt="GIF" width="40" style="vertical-align: middle; margin-right: 10px;">
+    Olá! sou Felipe
+  </h2>
+</div>
+
+<p align="center">
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e programação.  
+Estou sempre em busca de novos desafios e aprendizados, explorando projetos que me permitem crescer como desenvolvedor e contribuir com soluções práticas e criativas.  
 Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvimento web, back-end e banco de dados.
+</p>
 
 
 <br><br>
