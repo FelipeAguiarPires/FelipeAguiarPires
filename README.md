@@ -39,20 +39,21 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 
 ---
 
-<div align="center">
-  <h2 style="display: inline; margin: 0;">
-    <img src="abc.jpg" alt="GIF" width="40" style="vertical-align: middle; margin-right: 10px;">
-   Status do GitHub
-  </h2>
-</div>
+<h2 align="center">
+  <img src="abc.jpg" width="40" align="center" />
+  Status do GitHub
+</h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeAguiarPires&theme=2077" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipeAguiarPires&theme=2077" width="45%" />
-</p>
-
-
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeAguiarPires&theme=2077" width="350" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipeAguiarPires&theme=2077" width="350" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeAguiarPires&theme=tokyo-night&hide_border=true" />
