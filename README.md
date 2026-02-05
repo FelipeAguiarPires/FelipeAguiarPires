@@ -12,8 +12,10 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 
 
 <div align="center">
-  <h2 style="display: inline-block; vertical-align: middle;">🖥️ Linguagens & Tecnologias</h2>
-  <img src="1930561_979af.gif" alt="GIF" width="40" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+  <h2 style="display: inline; margin: 0;">
+    <img src="1930561_979af.gif" alt="GIF" width="40" style="vertical-align: middle; margin-right: 10px;">
+    Linguagens & Tecnologias
+  </h2>
 </div>
 
 
