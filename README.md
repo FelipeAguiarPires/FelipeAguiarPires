@@ -6,6 +6,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 
 
 ## 🤖meu git:
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e programação,
+estou sempre em busca de novos desafios e aprendizados, explorando projetos que me permitem crescer como desenvolvedor e contribuir com soluções práticas e criativas.
 Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvimento web, back-end e banco de dados.
 
 
@@ -32,7 +34,7 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 
 ---
 
-## 🔥 Atividade no GitHub
+## 🔥 Status do GitHub
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeAguiarPires&theme=tokyo-night&hide_border=true" />
