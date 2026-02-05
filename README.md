@@ -46,6 +46,10 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 
 ## 🔥 Status do GitHub
 
+![Felipe Aguiar GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&count_private=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
+
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeAguiarPires&theme=tokyo-night&hide_border=true" />
 </p>
