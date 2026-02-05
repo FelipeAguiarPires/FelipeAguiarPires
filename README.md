@@ -24,7 +24,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeAguiarPires&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -36,5 +36,5 @@
 ### 🔥 Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeAguiarPires&theme=tokyo-night&hide_border=true" />
 </p>
