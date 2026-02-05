@@ -49,6 +49,7 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeAguiarPires&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeAguiarPires&theme=tokyonight" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FelipeAguiarPires&layout=compact&theme=dark" />
 
 
 
