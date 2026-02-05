@@ -28,7 +28,7 @@
 
 ## 🔥 Atividade no GitHub
 
-![Metrics](https://metrics.lecoq.io/FelipeAguiarPires?template=classic&theme=dark)
+![Teste](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
 
 
 
