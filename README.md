@@ -8,11 +8,6 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 </div>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FelipeAguiarPires&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ##  🖥️Linguagens & Tecnologias
 
@@ -29,6 +24,11 @@ Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvime
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FelipeAguiarPires&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ## 🔥 Status do GitHub
 
