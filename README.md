@@ -4,7 +4,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 
 ## 🤖 Aqui você vai encontrar projetos acadêmicos e pessoais envolvendo desenvolvimento web, back-end e banco de dados.
 
----
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=FelipeAguiarPires&theme=tokyonight&hide_border=true" />
