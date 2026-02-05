@@ -28,10 +28,6 @@
 
 ## 🔥 Atividade no GitHub
 
-![Teste](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
-
-
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeAguiarPires&theme=tokyo-night&hide_border=true" />
 </p>
